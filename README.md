@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TOBY19k
 - 👀 I’m interested in android 
 - 🌱 I’m currently learning bash 
-- 📫 How to reach me @TOBY19k in telegram & xda
+- 📫 Reach me @TOBY19k in telegram & xda
 
 <p align="center"> 
   Visitor count<br>
