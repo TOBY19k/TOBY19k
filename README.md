@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TOBY19k
-- 👀 I’m interested in android 
-- 🌱 I’m currently learning bash 
+- 👀 I’m interested in Android 
+- 🌱 I’m currently learning HTML
 
 Check out my accounts.
 
